@@ -1,4 +1,9 @@
-# CHAT-ROOM PRIVATE OWN IP 😈
+#                                 Welcome To Dark Crime By Achiya.
+
+<h1 align="center"><b>Termux-CHAT-ROOM PRIVATE OWN IP BY Hiruwa </b></h1>
+
+![logo](https://telegra.ph/file/2d3f6df29d44501a40fa3.jpg)
+
 
 # HOW TO USE 
 
@@ -8,7 +13,7 @@
 
 > apt install python -y
 
-> git clone https://github.com/Dark-Knight-Hiruwa/CHAT-ROOM.git
+> git clone https://github.com/AchiyaCT/ALPHA-CHAT-ROOM.git
 
 > cd CHAT-ROOM
 
