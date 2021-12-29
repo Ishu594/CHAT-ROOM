@@ -1,4 +1,4 @@
-# This tool was encrypt by HIRUWA
+# This tool was encrpt by HIRUWA
 # TOOL BY HIRUWA
 
 import base64
